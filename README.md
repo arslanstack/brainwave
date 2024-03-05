@@ -1,10 +1,10 @@
-# Brainwave - Modern UI/UX website in React JS and Tailwind CSS
-
-![brainwave](mockup2.webp)
+# Brainwave - A Modern UI/UX Website with Vite, React JS, and Tailwind CSS.
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+
+![brainwave](mockup2.webp)
 
 ## <a name="features">🔋 Features</a>
 
@@ -22,5 +22,6 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 and many more, including code architecture and reusability
 
-## <a name="perview">Perview</a>
+## <a name="perview">👀 Perview</a>
+
 ![brainwave](website.png)
